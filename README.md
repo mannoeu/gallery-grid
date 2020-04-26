@@ -1,3 +1,3 @@
 # gallery-grid
-:camera: Image gallery using grid-layout
+:camera: A responsive image gallery using grid-layout
 https://mannoeu-gallery-grid.netlify.app/
